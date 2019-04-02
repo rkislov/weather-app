@@ -1,0 +1,12 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rkislov/weather-app.git",
+  "author": "Roman Kislov <roman@kislovs.ru>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
